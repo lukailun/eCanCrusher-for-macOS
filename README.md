@@ -1,1 +1,1 @@
-# eCanCrusher-for-Mac
+# eCanCrusher for Mac
